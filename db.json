@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "youssef",
+      "email": "y.faddoul@live.com",
+      "phone": "3",
+      "id": 3
+    },
+    {
+      "name": "fadi",
+      "email": "f.fadd@live.com",
+      "phone": "4",
+      "id": 4
+    },
+    {
+      "name": "samar",
+      "email": "s.kassas@live.com",
+      "phone": "5",
+      "id": 5
+    },
+    {
+      "name": "jad",
+      "email": "j.faddoul@live.com",
+      "phone": "70263789",
+      "id": 7
+    },
+    {
+      "name": "maria",
+      "email": "m.melhem@gmail.com",
+      "phone": "76336889",
+      "id": 8
+    }
+  ]
+}
